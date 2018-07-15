@@ -1,5 +1,4 @@
-# Tutorial on Dynamic IoT Data, Protocol, and Middleware
-Interoperability with Resource Slice Concepts and Tools
+# Tutorial on Dynamic IoT Data, Protocol, and Middleware Interoperability with Resource Slice Concepts and Tools
 
 This git contains material for the tutorial on dynamic IoT interoperability to be held in the [ACM IoT 2018 Conference](http://iot-conference.org/) by [Hong-Linh Truong](http://www.infosys.tuwien.ac.at/staff/truong).
 
