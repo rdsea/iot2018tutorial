@@ -33,7 +33,8 @@ The material will be continuously updated.
 
 If you use the material in this tutorial, pls. cite the tutorial paper:
 
-* Hong-Linh Truong,[](truong-tutorial-iot2018-cr.pdf),[The 8th International Conference on the Internet of Things (IoT 2018)](http://iot-conference.org/), 15-18 October, 2018, Santa Barbara, California, USA
+* Hong-Linh Truong,[Tutorial: Dynamic IoT Data, Protocol, and Middleware
+Interoperability with Resource Slice Concepts and Tools](truong-tutorial-iot2018-cr.pdf),[The 8th International Conference on the Internet of Things (IoT 2018)](http://iot-conference.org/), 15-18 October, 2018, Santa Barbara, California, USA
 
 The development of this work has been partially supported by [the H2020 EU Inter-IoT project](http://www.inter-iot-project.eu/) and the infrastructure resources for experiments have been supported by Google Cloud Platform (GCP) Research Grant.
 
