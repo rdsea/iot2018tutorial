@@ -1,6 +1,6 @@
 # Tutorial on Dynamic IoT Data, Protocol, and Middleware Interoperability with Resource Slice Concepts and Tools
 
-This git contains material for the tutorial on dynamic IoT interoperability to be held in the [ACM IoT 2018 Conference](http://iot-conference.org/) by [Hong-Linh Truong](http://www.infosys.tuwien.ac.at/staff/truong).
+This git contains material for the tutorial on dynamic IoT interoperability to be held in the [ACM IoT 2018 Conference](http://iot-conference.org/) by [Hong-Linh Truong](http://rdsea.github.io).
 
 The tutorial will examine cross-layered, cross-system interoperability issues and present a DevOps IoT Interoperability approach for defining
 metadata, selecting resources and software artifacts, and
@@ -16,15 +16,34 @@ add/remove interoperability support. We will present the
 concepts and techniques with hands-on examples using our
 research tools [rsiHub](https://github.com/sincconcept/HINC) and [IoTCloudSamples](https://github.com/rdsea/IoTCloudSamples).
 
-The material will be updated on the due time. Meanwhile, you can read the [tutorial proposal posted here](rsitutorial-proposal.pdf)
+The material will be continuously updated.
 
 ## Slides
 
-## Code Samples
+[The slides are available here soon](http://TO_BE_ADDED)
 
-## Other references
+## Code Samples and Hands-on
 
-* Hong-Linh Truong, Lingfan Gao, Michael Hammerer, [Service Architectures and Dynamic Solutions for Interoperability of IoT, Network Functions and Cloud Resources](https://www.researchgate.net/publication/326317224_Service_Architectures_and_Dynamic_Solutions_for_Interoperability_of_IoT_Network_Functions_and_Cloud_Resources), 12th European Conference on Software Architecture, September 24-28, 2018, Madrid, Spain
+* [Setup](step0-step/)
+* [Search for Interoperability Resources/Software Artifacts]()
+* [Setup Resource Providers for Hands-on]()
+* [Develop Solutions based on Scenarios] ()
+
+## Citation for this tutorial
+
+If you use the material in this tutorial, pls. cite the tutorial paper:
+
+* Hong-Linh Truong,[](truong-tutorial-iot2018-cr.pdf),[The 8th International Conference on the Internet of Things (IoT 2018)](http://iot-conference.org/), 15-18 October, 2018, Santa Barbara, California, USA
+
+The development of this work has been partially supported by [the H2020 EU Inter-IoT project](http://www.inter-iot-project.eu/) and the infrastructure resources for experiments have been supported by Google Cloud Platform (GCP) Research Grant.
+
+## Other Useful Materials and Papers
+
+The tutorial has been built based on various research work.
+
+* [Video of Resource Provisioning](https://storage.cloud.google.com/rdsea-public/rsihub-demo_ecsa_final.mp4)
+
+* Hong-Linh Truong, Lingfan Gao, Michael Hammerer, [Service Architectures and Dynamic Solutions for Interoperability of IoT, Network Functions and Cloud Resources](https://www.researchgate.net/publication/326317224_Service_Architectures_and_Dynamic_Solutions_for_Interoperability_of_IoT_Network_Functions_and_Cloud_Resources), 12th European Conference on Software Architectures, September 24-28, 2018, Madrid, Spain
 
 * Hong-Linh Truong, [Towards a Resource Slice Interoperability Hub for IoT](http://www.infosys.tuwien.ac.at/staff/truong/publications/2018/rsihub_draft_jan18.pdf), 3rd edition of Globe-IoT 2018: Towards Global Interoperability among IoT Systems, IEEE, 2018. Orlando, Florida, USA, April 17-20, 2018.
 
@@ -33,3 +52,7 @@ The material will be updated on the due time. Meanwhile, you can read the [tutor
 * [rsiHub](https://github.com/sincconcept/HINC)
 
 * [IoTCloudSamples](https://github.com/rdsea/IoTCloudSamples).
+
+* [RDSEA Docker Hub Space](https://hub.docker.com/u/rdsea/)
+
+* [The original tutorial proposal](rsitutorial-proposal.pdf)
