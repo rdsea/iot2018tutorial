@@ -14,11 +14,26 @@ We need an instance of RabbitMQ for exchanging messages with rsiHub. You can get
 
 ## rsiHub GlobalManagementService
 
-[see the installation](https://github.com/SINCConcept/HINC/tree/master/global-management-service)
+Obtain the docker image and prepare the configuration file for running the image:
+
+```
+$docker pull rdsea/rsihubglobal
+$docker run -d -v /var/rsihubglobal/config:/rsihubglobal/config -p 8080:8080 rdsea/rsihubglobal
+```
+/var/rsihubglobal/config is the directory in the host that contains the application.properties file for rsihubglobal. For the tutorial, this application.properties file is available from the organizer.
+
+Further information can be found in [the installation](https://github.com/SINCConcept/HINC/tree/master/global-management-service)
 
 ## rsiHub LocalManagement Service
 
-[see the installation](https://github.com/SINCConcept/HINC/tree/master/local-management-service)
+```
+$docker pull rdsea/rsihublocal
+$docker run -v /var/rsihublocal/config:/rsihublocal/config  rdsea/rsihublocal
+```
+/var/rsihublocal/config is the directory in the host that contains the application.properties file for rsihublocal. For the tutorial, this application.properties file is available from the organizer.
+
+
+For further information [see the installation](https://github.com/SINCConcept/HINC/tree/master/local-management-service)
 
 ## rsiHub SAS
 
