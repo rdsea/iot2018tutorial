@@ -24,7 +24,7 @@ The material will be continuously updated.
 
 ## Code Samples and Hands-on
 
-* [Setup](step0-step/)
+* [Setup](step0-setup/)
 * [Search for Interoperability Resources/Software Artifacts]()
 * [Setup Resource Providers for Hands-on]()
 * [Develop Solutions based on Scenarios] ()
