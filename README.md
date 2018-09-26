@@ -27,7 +27,7 @@ The material will be continuously updated.
 * [Setup](step0-setup/)
 * [Search for Interoperability Resources/Software Artifacts]()
 * [Setup Resource Providers for Hands-on]()
-* [Develop Solutions based on Scenarios] ()
+* [Develop Solutions based on Scenarios](developsolutions/)
 
 ## Citation for this tutorial
 
