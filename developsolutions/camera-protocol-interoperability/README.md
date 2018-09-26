@@ -33,9 +33,13 @@ By searching through rsiHub, we find a component doing this (software-artifact) 
 #### Deploy the component
 
 One example of such pull-push bridge is (https://github.com/rdsea/IoTCloudSamples/tree/master/IoTCloudUnits/datastorageArtefact) for REST GET API to Google Storage.
-One can do the self-deployment, ask a sepific provider to do this or call rsiHub to create a docker for pull-push
+One can do the self-deployment, ask a specific provider to do this or call rsiHub to create a docker for pull-push
 
-We have one deployment and the data will be stored into the bucket "userexchanfedata"
+```
+$docker pull rdsea/restpull2gspush-bridge
+```
+
+We have one deployment and the data will be stored into the bucket "userexchangedata"
 
 #### Run an example
 
