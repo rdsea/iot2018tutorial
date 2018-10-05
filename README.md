@@ -24,9 +24,9 @@ The material will be continuously updated.
 
 ## Code Samples and Hands-on
 
-* [Setup](step0-setup/)
-* [Search for Interoperability Resources/Software Artifacts]()
-* [Setup Resource Providers for Hands-on]()
+* [Setup](setup/)
+* [Make interoperability resources/artefacts available](add/)
+* [Search for Interoperability Resources/Software Artifacts](search/)
 * [Develop Solutions based on Scenarios](developsolutions/)
 
 ## Citation for this tutorial
