@@ -41,7 +41,7 @@ The following search would find suitable artefacts
 ```
 curl -X POST --header 'Content-Type: application/json' --header 'Accept: application/json' -d '{"executionEnvironment": "docker", \
  "metadata.inputs.protocol.protocol_name": "http" \
- }' 'http://35.190.200.222:8082/softwareartefacts/search'
+ }' 'http://[HOST]:8082/softwareartefacts/search'
 
  ```
 Then search for docker provider:
