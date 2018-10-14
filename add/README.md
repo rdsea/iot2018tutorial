@@ -26,3 +26,13 @@ See examples from (https://github.com/rdsea/IoTCloudSamples/tree/master/IoTCloud
 ### Using REST APIs
 
 The REST APIs are available at [rsiHubSAS document](https://github.com/SINCConcept/HINC/tree/master/software-artefact-service)
+
+## List artefacts and resources available
+
+Using pizza for this
+```
+$pizza artefact list
+$pizza artefact get 5bab72c046e0fb00011901b8
+$pizza resource list
+
+```

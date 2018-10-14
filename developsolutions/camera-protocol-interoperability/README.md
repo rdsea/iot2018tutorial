@@ -36,7 +36,7 @@ One example of such pull-push bridge is (https://github.com/rdsea/IoTCloudSample
 One can do the self-deployment, ask a specific provider to do this or call rsiHub to create a docker for pull-push
 
 ```
-$docker pull rdsea/restpull2gspush-bridge
+$docker pull rdsea/http2datastorage
 ```
 
 We have one deployment and the data will be stored into the bucket "userexchangedata"
