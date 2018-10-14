@@ -27,7 +27,9 @@ The material will be continuously updated.
 * [Setup](setup/)
 * [Make interoperability resources/artefacts available](add/)
 * [Search for Interoperability Resources/Software Artifacts](search/)
+* [Check interoperability issues](interoperabilitycheck/)
 * [Develop Solutions based on Scenarios](developsolutions/)
+* [Create complex resource slice for interoperability](https://storage.cloud.google.com/rdsea-public/rsihub-demo_ecsa_final.mp4)
 
 ## Citation for this tutorial
 
