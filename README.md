@@ -20,7 +20,7 @@ The material will be continuously updated.
 
 ## Slides
 
-[The slides are available here soon](http://TO_BE_ADDED)
+[The slides are available here soon](truong-ACM-IoT-Tutorial-2018-latest.pdf)
 
 ## Code Samples and Hands-on
 
