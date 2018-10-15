@@ -20,7 +20,9 @@ The material will be continuously updated.
 
 ## Slides
 
-[The slides are available here soon](truong-ACM-IoT-Tutorial-2018-latest.pdf)
+[Current version of the tutorial slides (15 Oct 2018)](truong-ACM-IoT-Tutorial-2018-latest.pdf)  
+
+If you have any comments and suggestions, pls. send to us.
 
 ## Code Samples and Hands-on
 
