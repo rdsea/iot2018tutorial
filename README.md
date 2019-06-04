@@ -50,7 +50,7 @@ The tutorial has been built based on various research work.
 
 * Hong-Linh Truong, Lingfan Gao, Michael Hammerer, [Service Architectures and Dynamic Solutions for Interoperability of IoT, Network Functions and Cloud Resources](https://www.researchgate.net/publication/326317224_Service_Architectures_and_Dynamic_Solutions_for_Interoperability_of_IoT_Network_Functions_and_Cloud_Resources), 12th European Conference on Software Architectures, September 24-28, 2018, Madrid, Spain
 
-* Hong-Linh Truong, [Towards a Resource Slice Interoperability Hub for IoT](http://www.infosys.tuwien.ac.at/staff/truong/publications/2018/rsihub_draft_jan18.pdf), 3rd edition of Globe-IoT 2018: Towards Global Interoperability among IoT Systems, IEEE, 2018. Orlando, Florida, USA, April 17-20, 2018.
+* Hong-Linh Truong, [Towards a Resource Slice Interoperability Hub for IoT](https://users.aalto.fi/~truongh4/publications/2018/rsihub_draft_jan18.pdf), 3rd edition of Globe-IoT 2018: Towards Global Interoperability among IoT Systems, IEEE, 2018. Orlando, Florida, USA, April 17-20, 2018.
 
 * Hong-Linh Truong, Nanjangud C. Narendra, Kwei-Jay Lin, [Notes on ensembles of IoT, network functions and clouds for service-oriented computing and applications](https://link.springer.com/article/10.1007%2Fs11761-018-0228-2), Service Oriented Computing and Applications Journal, Springer, Mar 2018, Service Oriented Computing and Applications.
 
